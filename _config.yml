@@ -24,10 +24,10 @@ repository               : "matthewberens/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Matthew Berens, PhD, PE"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : # "Earth"
   employer         : "Clemson University"
   uri              : # URL
   email            : "matthewjberens@gmail.com" 
