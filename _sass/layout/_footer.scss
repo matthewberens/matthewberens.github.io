@@ -4,7 +4,7 @@
 
 .page__footer {
   @include clearfix;
-  background-color: var(--global-footer-bg-color);
+  background-color: $clemson-purple;
   color: var(--global-text-color-light);
 
   float: left;
